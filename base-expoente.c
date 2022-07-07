@@ -14,6 +14,6 @@ int baseExpoente(int b, int e){
 }
 
 int main(){
-    
+    printf("%d", baseExpoente(3,3));
     return 0;
 }
